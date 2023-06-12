@@ -1,0 +1,10 @@
+* definer
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/definer/definer.git   |
+| commit  |   |
+| systems | definer |
+|---------+-------------------------------------------|
+
