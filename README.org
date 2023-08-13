@@ -3,8 +3,9 @@
 A simple library that contains an extension to Common Lisp that allows
 programmer to nicely reuse some common "definition" idioms.
 
+
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/definer/definer.git |
-| commit  | f2222fb576cdc3afbd82e08b3bed4007029fcfa5               |
+| commit  | f2222fb                                                |
 | systems | definer                                                |
 |---------+--------------------------------------------------------|
