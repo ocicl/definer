@@ -6,6 +6,6 @@ programmer to nicely reuse some common "definition" idioms.
 
 |---------+--------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/definer/definer.git |
-| commit  | f787f0d                                                |
+| commit  | 2b2ac36                                                |
 | systems | definer                                                |
 |---------+--------------------------------------------------------|
